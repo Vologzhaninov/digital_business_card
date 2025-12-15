@@ -1,3 +1,3 @@
 # Digital business card
-React solo project
+React solo project, 
 UI design by https://scrimba.com
